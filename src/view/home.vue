@@ -150,6 +150,7 @@
   var data4 = homeData.data4;
   var data5 = homeData.data5;
   var data6 = homeData.data6;
+  
 </script>
 
 <style lang="less" scoped>

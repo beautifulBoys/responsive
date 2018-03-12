@@ -4,7 +4,7 @@
 
 ## 项目预览
 
-[在线预览](https://beautifulboys.github.io/html/responsive/)
+[在线预览](https://beautifulboys.github.io/pc/responsive/)
 
 下载体验(下载demo文件夹，双击index.html即可查看)。
 
